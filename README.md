@@ -1,1 +1,1 @@
-Módulo de estudos de vorsionamento de código com o GIT.
+Módulo de estudos de versionamento de código com o GIT.
